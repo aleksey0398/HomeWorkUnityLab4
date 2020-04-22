@@ -5,8 +5,7 @@ using UnityEngine.UI;
 
 public class Hello : MonoBehaviour
 {
-    string helloText;
-    public Text text;
+
     public Slider sliderPosition, sliderScale;
     GameObject cube, sphere, capsule, cylinder;
 
